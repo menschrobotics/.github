@@ -18,6 +18,6 @@ We welcome contributions from robotics engineers, researchers, and students:
 
 ### Connect With Us
 
-* **Website:** [menschrobotics.com](https://menschrobotics.com) *(update with your live domain)*
-* **LinkedIn:** [Mensch Robotics](https://www.linkedin.com/company/menschrobotics) *(update with your exact LinkedIn slug)*
-* **Contact & Partnerships:** `info@menschrobotics.com` *(update with your official email)*
+* **Website:** [menschrobotics.com](https://menschrobotics.com) 
+* **LinkedIn:** [Mensch Robotics](https://www.linkedin.com/company/menschrobotics) 
+* **Contact & Partnerships:** `info@menschrobotics.com` 
